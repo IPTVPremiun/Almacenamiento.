@@ -1,0 +1,20 @@
+GNU  GENERAL PUBLIC LICENSE
+    Version 2, Junio 1991
+
+Copyright (C) 1989, 1991 
+675 Mass Ave, Cambridge, MA 02139, EEUU
+
+Se permiten la copia y distribución de libros, software, literatura o otro contenido generado por el usuario
+
+------------------------------------------
+
+GNU GENERAL PUBLIC LICENSE TERMINOS Y CONDICIONES PARA LA COPIA Y DISTRIBUCIÓN DEL CONTENIDO 
+
+Está licencia GNU  GENERAL PUBLIC garantiza al usuario distribuir,copiar,modificar y utilizar su obra para la distribución,explotación y comercialización libre de censura para uso educativo.ya que el usuario reconoce al creador de la obra original como el único creador.podra distribuir software y cualquier contenido libremente generado por el usuario.podrá comercializarlo la veces que quiera.ya que el usuario está bajo este contrato ,que no se podrá violar nunca.la ISP como los hosting no podrán censurar ningún contenido que esté bajo esta licencia GNU.ya que deberán respetar los derechos de los usuarios que generaron este contenido bajo esta licencia de distribución gratuita libre de censura en el internet .
+Esta prohibido el bloqueo y la eliminación del contenido generado por el usuario deberán respetar las libertades individuales de cada usuario .como el derecho a la distribución y comercializacion de la misma . también debe respetar los derechos civiles y la libertad de expresión de cada usuario.no existe ninguna restricción que deben aplicar al usuario teniendo esta licencia GPL
+Quien no cumple con esta licencia será demandado legalmente por quitar la libertad y por violar todo los derechos civiles del usuario.el usuario tiene todo el derecho de compartir ,distribuir y comercializar y modificar la obra libremente .podrá crear una derivación de la obra modificada.podrá el usuario,editar,audio,videos,musica o texto registrado por el autor.
+Podrá descargar y subir el contenido registrado con derechos de autor y podrá distribuirlo gratis para uso educativo las veces que quiera sin restricciones.las derivación de la obras si fue modificados y mejorada por el usuario tendrá el nombre del autor original y el nombre quien derivó la obra en la modificación actual.tendra el reconocimiento ,el segundo autor de la obra derivada y podrá comercializar la obra modificada el autor original,como también el nuevo autor de la obra derivada.ya que está protegido todo los derechos de ambos individuos.LAS EMPRESAS DE SERVICIO DE INTERNET NO PODRA  DIFUNDIR NINGUN DATO PERSONAL DEL USUARIO,YA QUE ESTA RESERVADO TODO DERECHO A LA PRIVACIDAD DEL USUARIO.
+Las empresas de servicios del INTERNET No podrá difundír ningún contenido del usuario a otras empresas para la comercialización de la misma.Ofreciendo servicios.
+
+
+FIN DE TERMINOS Y CONDICIONES
